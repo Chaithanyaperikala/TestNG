@@ -1,0 +1,73 @@
+2023-02-01 16:41:58,925 INFO  [Log] Application Opened 
+2023-02-01 16:42:02,516 INFO  [Log] Login completed 
+2023-02-01 16:42:02,547 INFO  [Log] Entered Frame 
+2023-02-01 16:42:12,237 INFO  [Log] Employee Details Add 
+2023-02-01 16:42:12,245 INFO  [Log] Frame Exited 
+2023-02-01 16:42:12,513 INFO  [Log] LogOut completed 
+2023-02-01 16:42:13,191 INFO  [Log] Application Closed 
+2023-02-02 21:17:12,739 INFO  [Log] Application Opened 
+2023-02-02 21:17:14,058 INFO  [Log] Login completed 
+2023-02-02 21:17:14,108 INFO  [Log] Entered Frame 
+2023-02-02 21:17:17,412 INFO  [Log] Employee Details Add 
+2023-02-02 21:17:17,432 INFO  [Log] Frame Exited 
+2023-02-02 21:17:17,701 INFO  [Log] LogOut completed 
+2023-02-02 21:17:18,856 INFO  [Log] Application Closed 
+2023-02-02 21:17:22,999 INFO  [Log] Application Opened 
+2023-02-02 21:17:24,415 INFO  [Log] Login completed 
+2023-02-02 21:17:34,337 INFO  [Log] LogOut completed 
+2023-02-02 21:17:35,283 INFO  [Log] Application Closed 
+2023-02-02 21:17:56,253 INFO  [Log] Application Opened 
+2023-02-02 21:17:57,689 INFO  [Log] Login completed 
+2023-02-02 21:17:57,730 INFO  [Log] Entered Frame 
+2023-02-02 21:18:01,030 INFO  [Log] Employee Details Add 
+2023-02-02 21:18:01,047 INFO  [Log] Frame Exited 
+2023-02-02 21:18:01,472 INFO  [Log] LogOut completed 
+2023-02-02 21:18:02,517 INFO  [Log] Application Closed 
+2023-02-02 21:18:07,147 INFO  [Log] Application Opened 
+2023-02-02 21:18:09,507 INFO  [Log] Login completed 
+2023-02-02 21:18:19,379 INFO  [Log] LogOut completed 
+2023-02-02 21:18:20,362 INFO  [Log] Application Closed 
+2023-02-02 21:51:49,814 INFO  [Log] Application Opened 
+2023-02-02 21:51:50,897 INFO  [Log] Login completed 
+2023-02-02 21:51:50,936 INFO  [Log] Entered Frame 
+2023-02-02 21:51:54,626 INFO  [Log] Employee Details Add 
+2023-02-02 21:51:54,635 INFO  [Log] Frame Exited 
+2023-02-02 21:51:54,888 INFO  [Log] LogOut completed 
+2023-02-02 21:51:55,918 INFO  [Log] Application Closed 
+2023-02-02 21:52:00,389 INFO  [Log] Application Opened 
+2023-02-02 21:52:01,657 INFO  [Log] Login completed 
+2023-02-02 21:52:11,547 INFO  [Log] LogOut completed 
+2023-02-02 21:52:12,494 INFO  [Log] Application Closed 
+2023-02-02 21:53:15,772 INFO  [Log] Application Opened 
+2023-02-02 21:53:17,306 INFO  [Log] Login completed 
+2023-02-02 21:53:17,339 INFO  [Log] Entered Frame 
+2023-02-02 21:53:22,591 INFO  [Log] Employee Details Add 
+2023-02-02 21:53:22,603 INFO  [Log] Frame Exited 
+2023-02-02 21:53:22,856 INFO  [Log] LogOut completed 
+2023-02-02 21:53:23,720 INFO  [Log] Application Closed 
+2023-02-02 21:53:27,163 INFO  [Log] Application Opened 
+2023-02-02 21:53:28,311 INFO  [Log] Login completed 
+2023-02-02 21:53:38,176 INFO  [Log] LogOut completed 
+2023-02-02 21:53:38,916 INFO  [Log] Application Closed 
+2023-02-03 15:16:18,979 INFO  [Log] Application Opened 
+2023-02-03 15:16:19,836 INFO  [Log] Login completed 
+2023-02-03 15:16:19,917 INFO  [Log] Entered Frame 
+2023-02-03 15:16:21,895 INFO  [Log] Employee Details Add 
+2023-02-03 15:16:21,914 INFO  [Log] Frame Exited 
+2023-02-03 15:16:22,278 INFO  [Log] LogOut completed 
+2023-02-03 15:16:23,949 INFO  [Log] Application Closed 
+2023-02-03 15:16:27,292 INFO  [Log] Application Opened 
+2023-02-03 15:16:28,092 INFO  [Log] Login completed 
+2023-02-03 15:16:38,140 INFO  [Log] LogOut completed 
+2023-02-03 15:16:39,470 INFO  [Log] Application Closed 
+2023-02-03 15:19:25,519 INFO  [Log] Application Opened 
+2023-02-03 15:19:26,379 INFO  [Log] Login completed 
+2023-02-03 15:19:26,432 INFO  [Log] Entered Frame 
+2023-02-03 15:19:28,820 INFO  [Log] Employee Details Add 
+2023-02-03 15:19:28,846 INFO  [Log] Frame Exited 
+2023-02-03 15:19:29,194 INFO  [Log] LogOut completed 
+2023-02-03 15:19:30,908 INFO  [Log] Application Closed 
+2023-02-03 15:19:34,020 INFO  [Log] Application Opened 
+2023-02-03 15:19:34,846 INFO  [Log] Login completed 
+2023-02-03 15:19:44,871 INFO  [Log] LogOut completed 
+2023-02-03 15:19:46,385 INFO  [Log] Application Closed 
